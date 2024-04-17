@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\views\\impiegati\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\views\\impiegati\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\controllers\\impiegaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\controllers\\impiegaticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\services\\impiegatiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\services\\impiegatiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\models\\taskimpiegaticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\models\\taskimpiegaticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\models\\impiegati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\models\\impiegati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\repos\\impiegatirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\repos\\impiegatirepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\views\\impiegati\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\views\\impiegati\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|c:\\users\\utente\\desktop\\task_impiegati\\task_impiegati\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B7A5C-20FF-4FA6-B42D-99FD65CDB18C}|Task_Impiegati\\Task_Impiegati.csproj|solutionrelative:task_impiegati\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Services\\RepartoService.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Services\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Services\\RepartoService.cs",
+              "RelativeToolTip": "Task_Impiegati\\Services\\RepartoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:40:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Repos\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\RepartoRepo.cs",
+              "RelativeToolTip": "Task_Impiegati\\Repos\\RepartoRepo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:37:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\Reparto.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Models\\Reparto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\Reparto.cs",
+              "RelativeToolTip": "Task_Impiegati\\Models\\Reparto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:31:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Impiegati\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Views\\Impiegati\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Impiegati\\Inserimento.cshtml",
+              "RelativeToolTip": "Task_Impiegati\\Views\\Impiegati\\Inserimento.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:13:45.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task_Impiegati\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:07:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task_Impiegati\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T09:50:44.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Impiegati\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Views\\Impiegati\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Views\\Impiegati\\Lista.cshtml",
+              "RelativeToolTip": "Task_Impiegati\\Views\\Impiegati\\Lista.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:10:20.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Impiegati.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\Impiegati.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Models\\Impiegati.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\Impiegati.cs",
+              "RelativeToolTip": "Task_Impiegati\\Models\\Impiegati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:49:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImpiegatiController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Controllers\\ImpiegatiController.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Controllers\\ImpiegatiController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Controllers\\ImpiegatiController.cs",
+              "RelativeToolTip": "Task_Impiegati\\Controllers\\ImpiegatiController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:02:40.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImpiegatiService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Services\\ImpiegatiService.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Services\\ImpiegatiService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Services\\ImpiegatiService.cs",
+              "RelativeToolTip": "Task_Impiegati\\Services\\ImpiegatiService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:54:35.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImpiegatiRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\ImpiegatiRepo.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Repos\\ImpiegatiRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\ImpiegatiRepo.cs",
+              "RelativeToolTip": "Task_Impiegati\\Repos\\ImpiegatiRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:50:12.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Repos\\IRepo.cs",
+              "RelativeToolTip": "Task_Impiegati\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:47:37.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Program.cs",
+              "RelativeToolTip": "Task_Impiegati\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:45:27.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_Impiegati\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\appsettings.json",
+              "RelativeToolTip": "Task_Impiegati\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T08:37:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskImpiegatiContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\TaskImpiegatiContext.cs",
+              "RelativeDocumentMoniker": "Task_Impiegati\\Models\\TaskImpiegatiContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\Models\\TaskImpiegatiContext.cs",
+              "RelativeToolTip": "Task_Impiegati\\Models\\TaskImpiegatiContext.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:32:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Task_Impiegati\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Task_Impiegati\\Task_Impiegati\\appsettings.Development.json",
+              "RelativeToolTip": "Task_Impiegati\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T08:28:54.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
